@@ -16,7 +16,7 @@
 
                 <item
                     android:id="@+id/dateList"
-                    android:title="Datewise Attendanc"
+                    android:title="Datewise Attendance"
                     android:icon="@drawable/list"/>
 
                 <item
